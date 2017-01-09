@@ -1,0 +1,7 @@
+name: python_module_quickstart
+dependencies:
+  - python>=3.6
+  # Packages
+  - pip
+  # Testing
+  - pytest
