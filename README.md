@@ -1,5 +1,8 @@
 # Python module quickstart
 
+[import universe.acceleration as acc](http://astro-interest.com/wp-content/uploads/2014/09/Big-Bang-Explosion.jpg)
+
+
 ## Introduction
 
 This provides my skeleton for Python module development. It is based on a few approaches I have seen in the python community - I will dig out the links/references when updating this Readme to contain more detail. It:
