@@ -1,6 +1,6 @@
 # Python module quickstart
 
-[import universe.acceleration as acc](http://astro-interest.com/wp-content/uploads/2014/09/Big-Bang-Explosion.jpg)
+![import universe.acceleration as acc](http://astro-interest.com/wp-content/uploads/2014/09/Big-Bang-Explosion.jpg)
 
 
 ## Introduction
