@@ -12,6 +12,6 @@ This provides my skeleton for Python module development. It is based on a few ap
 
 ## Useage
 
-To be continued.
-
 Feel free to use this for your own work and help make the world a cleaner, more tested place!
+
+To be continued...
