@@ -9,7 +9,7 @@ This provides my skeleton for Python module development. It is based on a few ap
 
 + Creates a conda environment containing `pytest` and `pip`.
 
-+ Installs the module interactively into the conda environment (no more `sys.path.append`!).
++ Installs the module interactively into the conda environment (no more `sys.path.append` ┏(-_-)┛┗(-_- )┓┗(-_-)┛┏(-_-)┓).
 
 + Uses a clear mirror structure between code modules, tests and fixtures.
 
